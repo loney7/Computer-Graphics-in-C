@@ -3,3 +3,4 @@ Contains Programs for Computer Graphics ranging from translation to rotation and
 
 
 1. 2-d Translation w.r.t to origin: For point, line and a rectangle
+2. 2-d Translation w.r.t to x,y: For point, line and a rectangle
